@@ -1,4 +1,4 @@
-# router-demo
+# vue-project
 
 ## Project setup
 ```
